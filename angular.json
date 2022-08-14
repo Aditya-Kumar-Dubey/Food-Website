@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "food-website"
+    }
+  },
+  "defaultProject": "food-website",
+  "cli": {
+    "analytics": "60c639d4-3987-4eeb-9a05-46122dec81c1"
+  }
 }
